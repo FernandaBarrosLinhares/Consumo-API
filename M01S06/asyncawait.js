@@ -7,7 +7,7 @@ function getUserInfo() {
                 email: 'fernanda@email.com'
             };
             resolve(userInfo);
-        }, 2000); // Simulando um tempo de espera de 2 segundos
+        }, 2000); 
     });
 }
 
